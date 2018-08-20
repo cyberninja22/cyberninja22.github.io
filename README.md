@@ -1,4 +1,4 @@
-## GoodReads Genre Predictor 
+# GoodReads Genre Predictor 
  
 Here we take the summary of a book from its [GoodReads](https://www.goodreads.com/) page and predict the genre of the book using various ML algorithms . The sentiment analysis of the reviews is also done to find the correlation of the ratings of the book and the sentiment of the reviews on the goodreads page of the book 
 
@@ -11,11 +11,15 @@ Here we take the summary of a book from its [GoodReads](https://www.goodreads.co
 ```markdown
 Syntax highlighted code block
 
-# Possible genres to be classified here are -- 
+### Possible genres to be classified here are -- 
  1.Horror
+ 
  2.Non-Fiction
+ 
  3.Children's
+ 
  4.Romantic
+ 
  5.Autobiography
  
 
