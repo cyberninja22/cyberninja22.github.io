@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 ### Codes to the classifier : 
 
-The entire code for the product can be checked out in the [repo] (https://github.com/cyberninja22/Goodreads_Genre_Predictor). 
+The entire code for the product can be checked out in the [repo](https://github.com/cyberninja22/Goodreads_Genre_Predictor). 
 
 ### Further improvements 
 Similar classifiers can be applied on different text to detect hate speech, spam comments . The next build will be to extend the classifiers to hate speech detection . 
