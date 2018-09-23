@@ -8,8 +8,6 @@ Here we take the summary of a book from its [GoodReads](https://www.goodreads.co
 1. Scraping the pages of 3000 books in [goodreads.com](https://www.goodreads.com/) of different genre .
 2. [Kaggle.com](https://www.kaggle.com/gnanesh/goodreads-book-reviews)
 
-```markdown
-Syntax highlighted code block
 
 ### Possible genres to be classified here are -- 
  1.Horror
